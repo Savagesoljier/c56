@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#final{
+    align-content: center;
+    background-color: cyan;
+    color:magenta;
+}
+#para2,#para1{
+    font-size:30px
+}
